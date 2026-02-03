@@ -1,5 +1,8 @@
 # Kayla's Website
 <html>
+body {
+  background-color: grey;
+}
 <body>
 <h1>
 Title
